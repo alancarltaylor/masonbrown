@@ -1153,6 +1153,7 @@ p.quote-post {
 
 .player.horizontal .player-content {
   position: relative;
+  width: auto;
 }
 
 @media (min-width: 768px) {
