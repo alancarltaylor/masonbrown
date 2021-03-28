@@ -1730,7 +1730,7 @@ p.quote-post {
 }
 
 .disc-tracklist li .track-info p {
-  max-width: 230px;
+  max-width: 300px;
   line-height: 30px;
   color: #000000;
   font-family: "cousine", monospace;
