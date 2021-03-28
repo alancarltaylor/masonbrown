@@ -48,7 +48,7 @@
     .p-intro-animate {
 	    top: 10%;
         bottom: 0;
-    }  
+    }
 }
 
 @media (max-width: 480px) {
@@ -60,7 +60,7 @@
     .p-intro-animate p span {
         font-size: 24px !important;
         line-height: 40px !important;
-    } 
+    }
 }
 
 #intro-carousel .carousel-caption h1 {
@@ -199,11 +199,13 @@
 	height: 100%;
 	background-position: center;
 	background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 .carousel .item {
 	height: 100%;
-	width:100%; 
+	width:100%;
 }
 
 /* Animation delays */
@@ -253,7 +255,3 @@
 .carousel-fade .carousel-control {
     z-index: 2;
 }
-
-
-
-
