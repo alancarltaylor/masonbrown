@@ -1470,26 +1470,26 @@ p.quote-post {
   -moz-transition: all 0.5s ease;
 }
 
-.carousel-discography .gallery-cell .cover:hover {
+.cover:hover {
   cursor: pointer;
 }
 
-.carousel-discography .gallery-cell .info-album:hover .rollover {
+.info-album:hover .rollover {
   opacity: 1;
 }
 
-.carousel-discography .gallery-cell .cover:hover .rollover p,
-.carousel-discography .gallery-cell .cover:hover .rollover i {
+.cover:hover .rollover p,
+.cover:hover .rollover i {
   opacity: 1;
 }
 
-.carousel-discography .gallery-cell .cover:hover .rollover p {
+.cover:hover .rollover p {
   top: 50%;
   -webkit-transition-delay: 0.1s;
   transition-delay: 0.1s;
 }
 
-.carousel-discography .gallery-cell .cover:hover .rollover i {
+.cover:hover .rollover i {
   top: 53%;
 }
 
