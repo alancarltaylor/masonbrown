@@ -1434,7 +1434,7 @@ p.quote-post {
   height: 80px;
   font-size: 26px;
   left: 50%;
-  top: 100%;
+  top: 95%;
   margin-left: -40px;
   margin-top: -32px;
   opacity: 0;
@@ -1455,7 +1455,7 @@ p.quote-post {
   display: block;
   text-align: center;
   width: 100%;
-  top: 100%;
+  top: 80%;
   margin-top: 48px;
   font-size: 16px;
   font-weight: 500;
