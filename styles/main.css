@@ -1420,7 +1420,7 @@ p.quote-post {
   transition: opacity 0.25s ease-in-out;
 }
 
-.carousel-discography .gallery-cell .cover .rollover i {
+.cover .rollover i {
   color: #fff;
   position: absolute;
   background-color: transparent;
@@ -1448,7 +1448,7 @@ p.quote-post {
   -moz-transition: all 0.5s ease;
 }
 
-.carousel-discography .gallery-cell .cover .rollover p {
+.cover .rollover p {
   position: absolute;
   color: #ffffff;
   text-transform: uppercase;
@@ -2046,7 +2046,7 @@ h2.title:after {
 }
 
 .biography .biography-image {
-  background: #000 url("../images/demo/biography/about.jpg") no-repeat center;
+  background: #000 url("../images/mason-heroic-beard.jpeg") no-repeat center;
 }
 
 .biography .biography-image {
@@ -4502,7 +4502,7 @@ form.newsletter-form .form-group {
 }
 
 .record-label .biography .biography-image {
-  background: #141e29 url(../images/demo/biography/aboutlabel.jpg) no-repeat center;
+  background: #141e29 url(../images/mason-heroic-beard.jpeg) no-repeat center;
 }
 
 .record-label .btn.square.inverse {
