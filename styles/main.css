@@ -1419,7 +1419,12 @@ p.quote-post {
   -webkit-transition: opacity 0.25s ease-in-out;
   transition: opacity 0.25s ease-in-out;
 }
-
+.upcomming-events-list-no-events {
+  text-align: center;
+  width: 100%;
+  font-style: italic;
+  color: #bbbaba !important;
+}
 .cover .rollover i {
   color: #fff;
   position: absolute;
