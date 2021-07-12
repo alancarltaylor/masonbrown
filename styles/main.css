@@ -1424,6 +1424,7 @@ p.quote-post {
   width: 100%;
   font-style: italic;
   color: #bbbaba !important;
+  padding-bottom: 42px;
 }
 .cover .rollover i {
   color: #fff;
