@@ -3354,6 +3354,13 @@ p.date {
   transition: opacity 0.3s;
 }
 
+.social-spotify {
+  margin: 0 40px 0 10px;
+}
+.social-fb {
+  margin: 0 0 0 80px;
+}
+
 @media (max-width: 768px) {
   .contact .social {
     display: -webkit-box;
@@ -3372,6 +3379,12 @@ p.date {
   }
   .contact .social img {
     margin-top: 30px;
+  }
+  .social-fb {
+    margin: 30px 0 0 0;
+  }
+  .social-spotify {
+    margin: 30px 0 0 0;
   }
 }
 
@@ -3417,6 +3430,9 @@ p.date {
 .contact .phone a:hover, .contact .email a:hover {
   color: gray;
   text-decoration: none;
+}
+path:hover {
+  fill: #272525;
 }
 
 footer {
