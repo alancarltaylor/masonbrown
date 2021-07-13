@@ -3629,6 +3629,10 @@ header .navbar-brand img {
   width: 100%;
 }
 
+.play-album {
+  width: 100%;
+}
+
 .intro .text-overlay {
   position: absolute;
   z-index: 4;
