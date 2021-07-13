@@ -31,6 +31,9 @@
   display: block;
   padding-top: 50%;
 }
+.carousel-caption {
+  bottom: 220px;
+}
 
 [data-aspect-ratio="4:3"]::before {
   content: "";
